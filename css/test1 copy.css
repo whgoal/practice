@@ -1,0 +1,16 @@
+#pic {
+    border: 2px solid rgb(79, 79, 79);
+    position: absolute;
+    top: 120px;
+    left: 0;
+    opacity: 0.2;
+    transition: all .5s;
+}
+#num1 {
+    font-size: 60px;
+    color: black;
+    font-family: '궁서체';
+    top: 150px;
+    left: 0;
+    transition: all .5s;
+}
